@@ -16,5 +16,6 @@ Plasma Login Manager自动启用小键盘
 ```bash
 git clone https://github.com/bailuocf/plm-numlock.git
 cd ~/plm-numlock
+chmod +x plm-numlock.sh
 ./plm-numlock.sh
 ``` 

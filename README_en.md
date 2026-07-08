@@ -15,5 +15,6 @@ Automatically enable the numeric keypad on the login screen when using Plasma Lo
 ```bash
 git clone https://github.com/bailuocf/plm-numlock.git
 cd ~/plm-numlock
+chmod +x plm-numlock.sh
 ./plm-numlock.sh
 ``` 
