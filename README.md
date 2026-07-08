@@ -4,7 +4,7 @@
 
 Plasma Login Manager自动启用小键盘
 
-本文档同时提供[*Typst*](./README.typ)版本
+本文档同时提供[**Typst**](./README.typ)版本
 
 
 [**English**](./README_en.md) | [**中文简体**](./README.md)
