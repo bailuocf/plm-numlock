@@ -5,10 +5,10 @@ Plasma Login Manager自动启用小键盘
 
 #set text(font: ("Source Han Serif SC"))
 
-#link("example_en")[
+#link("https://github.com/bailuocf/plm-numlock/blob/main/README_en.typ")[
 *English*]
 |
-#link("example")[
+#link("https://github.com/bailuocf/plm-numlock/blob/main/README.typ")[
 *中文简体*]
 
 = 用途
