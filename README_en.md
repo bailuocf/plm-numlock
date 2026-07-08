@@ -4,7 +4,7 @@
 
 Plasma Login Manager automatically enables the numeric keypad
 
-This document also provides the [*Typst *](./README_en.typ)version.
+This document also provides the [*Typst*](./README_en.typ)version.
 
 [**English**](./README_en.md) | [**中文简体**](./README.md)
 
